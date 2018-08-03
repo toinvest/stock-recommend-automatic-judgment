@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
-      <module fileurl="file://$PROJECT_DIR$/stock-recommend-automatic-judgment.iml" filepath="$PROJECT_DIR$/stock-recommend-automatic-judgment.iml" />
     </modules>
   </component>
 </project>
