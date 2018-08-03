@@ -24,16 +24,18 @@ public class CatchData {
     public static void main(String[] args) throws Exception {
         Document document = Jsoup.connect(url).get();
         Element element = document.getElementById("FundHoldSharesTable");
-        System.out.println(element.child(1).child(1).child(0));
+        System.out.println(element.child(1).child(1).child(3).getElementsByAttribute("align").html());
 
-        String sysPath = System.getProperty("user.dir");
+
+
+        /*String sysPath = System.getProperty("user.dir");
         Repository rep = new FileRepository("E:\\learing_code\\stock-recommend-automatic-judgment\\.git");
         System.out.println(sysPath + "/.git");
         System.out.println(rep.getRemoteNames());
         Git git = new Git(rep);
         PersonIdent defaultCommitter = new PersonIdent(git.getRepository());
         PersonIdent committer = new PersonIdent(defaultCommitter, new Date());
-        git.commit().setMessage("auto commit1").setCommitter(committer).call();
+        git.commit().setMessage("auto commit1").setCommitter(committer).call();*/
     }
 
 }
