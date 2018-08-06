@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c39684f4-28f6-4173-9da8-7d3c1c1879df" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c39684f4-28f6-4173-9da8-7d3c1c1879df" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/collection/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -64,8 +62,8 @@
       <file leaf-file-name="RenewStockData.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/collection/src/main/java/edu/mask/collection/task/RenewStockData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="88" column="44" lean-forward="true" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
+            <state relative-caret-position="289">
+              <caret line="65" column="16" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -417,19 +415,18 @@
       <updated>1533261198203</updated>
       <workItem from="1533261201808" duration="445000" />
       <workItem from="1533261746801" duration="8895000" />
-      <workItem from="1533433560761" duration="1193000" />
+      <workItem from="1533433560761" duration="2267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43204000" />
+    <option name="totallyTimeSpent" value="44278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1873" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.099779494" side_tool="true" visible="true" weight="0.52244896" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.10070005" side_tool="true" visible="true" weight="0.5214286" />
       <window_info anchor="right" id="Maven Projects" order="2" visible="true" weight="0.082929455" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -440,21 +437,21 @@
       <window_info id="UI Designer" order="1" />
       <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.8208379" weight="0.39916405" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49944875" weight="0.32857144" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.9002205" weight="0.28004178" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.8992999" weight="0.272449" />
       <window_info anchor="bottom" id="Spring" order="10" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49944875" weight="0.32911393" />
-      <window_info active="true" content_ui="combo" x="702" y="381" width="453" height="318" id="Project" order="3" sideWeight="0.8311966" visible="true" weight="0.14270328" />
+      <window_info content_ui="combo" x="702" y="381" width="453" height="318" id="Project" order="3" sideWeight="0.8294243" visible="true" weight="0.14270328" />
       <window_info anchor="right" id="Bean Validation" order="4" />
-      <window_info id="Web" order="3" sideWeight="0.16880342" side_tool="true" visible="true" weight="0.14270328" />
+      <window_info id="Web" order="3" sideWeight="0.1705757" side_tool="true" visible="true" weight="0.14270328" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" sideWeight="0.5116641" side_tool="true" weight="0.24972437" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49944875" weight="0.32857144" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="right" id="Commander" order="4" weight="0.4" />
       <window_info anchor="bottom" id="REST Client" order="7" weight="0.60816324" />
@@ -863,8 +860,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/collection/src/main/java/edu/mask/collection/task/RenewStockData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="88" column="44" lean-forward="true" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
+        <state relative-caret-position="289">
+          <caret line="65" column="16" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
