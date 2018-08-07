@@ -7,6 +7,7 @@ import org.jsoup.select.Elements;
 
 import java.text.MessageFormat;
 import java.util.Objects;
+import java.util.Random;
 
 public final class StockDataUtil {
 
@@ -17,6 +18,7 @@ public final class StockDataUtil {
 
     public static String catchData(String code, String date) {
         try {
+            Thread.sleep(randomSleep());
             Document document = Jsoup.connect(MessageFormat.format(url, code)).get();
             Elements elements = document.getElementById("FundHoldSharesTable").child(1).children();
             for (Element e : elements) {
@@ -28,6 +30,12 @@ public final class StockDataUtil {
             e.printStackTrace();
         }
         return null;
+    }
+
+    public static long randomSleep() {
+        int init = 2000;
+        Random r = new Random();
+        return init + r.nextInt(5000);
     }
 
 }
